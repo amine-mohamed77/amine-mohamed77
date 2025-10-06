@@ -1,76 +1,135 @@
-<!-- 💫 Professional GitHub Profile README -->
-<h1 align="center">👋 Hey there, I'm <span style="color:#007bff;">Amin mohamed</span></h1>
+<div align="center">
 
-<p align="center">
-  💻 <b>Full-Stack Web Developer</b> passionate about crafting fast, scalable, and user-friendly web applications.  
-  I love clean code, high performance, and practical digital solutions.
-</p>
+# 👋 Hey there, I'm **Amin Mohamed**
 
----
+### 💻 Full-Stack Web Developer | Laravel Specialist | Problem Solver
 
-<h2 align="center">🚀 About Me</h2>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Building+Scalable+Web+Applications;Clean+Code+%7C+High+Performance;Passionate+About+Digital+Solutions" alt="Typing SVG" />
 
-<p align="center">
-🌍 Based in: <b>[MOROOCO]</b>  
-💼 Current Focus: <b>Laravel | TypeScript | Full-Stack Development</b>  
-🧠 Currently learning: <b>Advanced Laravel & RESTful APIs</b>  
-🤝 Open to: <b>Remote Work | Freelance | Collaboration</b>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00C7B7?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio.com)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+
+</div>
 
 ---
 
-<h2 align="center">🧰 Tech Stack</h2>
+## 🚀 About Me
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,tailwind,php,laravel,mysql,git,github,vscode,postman,figma" />
-</p>
+```typescript
+const amin = {
+    location: "Morocco 🇲🇦",
+    currentFocus: ["Laravel", "TypeScript", "Full-Stack Development"],
+    learning: ["Advanced Laravel Patterns", "RESTful API Design", "System Architecture"],
+    openTo: ["Remote Work", "Freelance Projects", "Open Source Collaboration"],
+    motto: "Code with purpose, build with passion ✨"
+};
+```
 
----
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
-<h2 align="center">🏗️ Featured Projects</h2>
+### 🎯 What I Do
 
-<table align="center">
-  <tr>
-    <td align="center" width="50%">
-      <h3>🏠 <a href="https://github.com/your-username/unihousing">Unihousing</a></h3>
-      <p>
-        A web platform connecting students with apartment owners.<br>
-        <b>Stack:</b> Laravel, MySQL, PHP, HTML, CSS, JS<br>
-        <b>Features:</b> Authentication, Listings, Search, Booking System.
-      </p>
-    </td>
-    <td align="center" width="50%">
-      <h3>🌴 <a href="https://github.com/your-username/easytourbooking">EasyTourBooking</a></h3>
-      <p>
-        A PHP & MySQL app for managing travel bookings.<br>
-        <b>Stack:</b> PHP, MySQL, Bootstrap<br>
-        <b>Features:</b> CRUD operations, Dynamic Pages, Admin Dashboard.
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" colspan="2">
-      <h3>🛒 <a href="https://github.com/your-username/enjoy-market">Enjoy Market</a></h3>
-      <p>
-        A complete eCommerce platform built with Laravel.<br>
-        <b>Stack:</b> Laravel, MySQL, JS, Tailwind<br>
-        <b>Features:</b> Product Management, Cart System, User Auth, Admin Panel.
-      </p>
-    </td>
-  </tr>
-</table>
+- 🏗️ Build **scalable web applications** with modern frameworks
+- 🎨 Create **intuitive user experiences** with clean, responsive design
+- ⚡ Optimize **performance** and write **maintainable code**
+- 🔧 Develop **RESTful APIs** and integrate third-party services
+- 📚 Continuously learn and apply **best practices**
 
 ---
 
-<h2 align="center">🧭 Workflow</h2>
+## 🛠️ Tech Stack
 
-<p align="center">
-📋 Plan → 🎨 Design → ⚙️ Develop → 🔗 Connect → ✅ Test → 🚀 Deploy
-</p>
+### **Frontend**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### **Backend**
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### **Tools & Platforms**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
 
-<h2 align="center">🛠️ Laravel Quick Start</h2>
+## 🏆 Featured Projects
+
+<div align="center">
+
+### 🏠 [Unihousing](https://github.com/your-username/unihousing)
+**Student Housing Platform**
+
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+
+A comprehensive web platform connecting students with apartment owners, featuring authentication, property listings, advanced search, and booking management system.
+
+**🎯 Key Features:** User Authentication • Property Listings • Search & Filters • Booking System • Admin Dashboard
+
+---
+
+### 🌴 [EasyTourBooking](https://github.com/your-username/easytourbooking)
+**Travel Booking Management System**
+
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" />
+
+A dynamic travel booking application with complete CRUD operations, dynamic page generation, and administrative controls for managing tours and reservations.
+
+**🎯 Key Features:** CRUD Operations • Dynamic Pages • Admin Dashboard • Booking Management
+
+---
+
+### 🛒 [Enjoy Market](https://github.com/your-username/enjoy-market)
+**Complete eCommerce Solution**
+
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white" /> <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
+
+A full-featured eCommerce platform with product management, shopping cart functionality, secure user authentication, and comprehensive admin panel.
+
+**🎯 Key Features:** Product Management • Shopping Cart • Payment Integration • User Auth • Admin Panel • Order Tracking
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&langs_count=8&theme=tokyonight"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight" alt="GitHub Streak" />
+</div>
+
+---
+
+## 🔄 My Development Workflow
+
+```mermaid
+graph LR
+    A[📋 Plan] --> B[🎨 Design]
+    B --> C[⚙️ Develop]
+    C --> D[🔗 Integrate]
+    D --> E[✅ Test]
+    E --> F[🚀 Deploy]
+    F --> G[📈 Monitor]
+    G --> A
+```
+
+---
+
+## 🚀 Laravel Quick Start Guide
 
 ```bash
 # Clone the repository
@@ -81,12 +140,47 @@ cd your-project
 composer install
 npm install && npm run build
 
-# Setup environment
+# Environment setup
 cp .env.example .env
 php artisan key:generate
 
-# Edit your .env database configuration, then:
+# Database configuration
+# Edit your .env file with database credentials, then:
 php artisan migrate --seed
 
-# Run the development server
+# Start development server
 php artisan serve
+
+# Your application is now running at http://localhost:8000
+```
+
+---
+
+## 💡 Fun Facts
+
+- 🌙 I code best during night hours
+- ☕ Fueled by coffee and curiosity
+- 🎯 Always exploring new technologies
+- 🤝 Love collaborating on innovative projects
+- 📚 Continuous learner and tech enthusiast
+
+---
+
+## 📫 Let's Connect!
+
+<div align="center">
+
+**Open to collaborations, freelance opportunities, and interesting projects!**
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-profile)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-00C7B7?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio.com)
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+
+---
+
+<img src="https://komarev.com/ghpvc/?username=your-username&color=blueviolet&style=for-the-badge&label=Profile+Views" alt="Profile views" />
+
+### ⭐️ From [Amin Mohamed](https://github.com/your-username) | Built with 💙
+
+</div>
