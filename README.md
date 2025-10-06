@@ -1,73 +1,78 @@
-# 👋 Hi, I'm Amin mohamed
+<!-- 💫 Professional GitHub Profile README -->
+<h1 align="center">👋 Hey there, I'm <span style="color:#007bff;">Your Name</span></h1>
 
-💻 **Full-Stack Web Developer** passionate about building fast, scalable, and user-friendly web applications.  
-I love crafting clean code, optimizing performance, and creating practical digital solutions.
-
----
-
-## 🚀 About Me
-
-- 🌍 Based in: **[Your Country]**  
-- 💼 Current Focus: **Laravel | TypeScript | Full-Stack Development**    
-- 🧠 Currently learning: **Advanced Laravel & RESTful APIs**  
-- 🤝 Open to: **Remote work | Freelance | Collaboration**
-
----
-
-## 🧰 Tech Stack
-
-### 🎨 Front-End
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,tailwind" />
-</p>
-
-### ⚙️ Back-End
-<p>
-  <img src="https://skillicons.dev/icons?i=php,laravel,mysql" />
-</p>
-
-### 🧩 Tools & Workflow
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" />
+<p align="center">
+  💻 <b>Full-Stack Web Developer</b> passionate about crafting fast, scalable, and user-friendly web applications.  
+  I love clean code, high performance, and practical digital solutions.
 </p>
 
 ---
 
-## 🏗️ Featured Projects
+<h2 align="center">🚀 About Me</h2>
 
-### 🏠 [Unihousing](https://github.com/your-username/unihousing)
-> A web platform connecting university students with apartment owners.  
-> **Stack:** Laravel, MySQL, PHP, HTML, CSS, JavaScript  
-> **Features:** Authentication, Listings, Search & Filter, Booking System.
-
----
-
-### 🌴 [EasyTourBooking](https://github.com/your-username/easytourbooking)
-> A simple PHP & MySQL app for managing travel bookings.  
-> **Stack:** PHP, MySQL, Bootstrap  
-> **Features:** CRUD operations, dynamic pages, image uploads, and admin dashboard.
+<p align="center">
+🌍 Based in: <b>[Your Country]</b>  
+💼 Current Focus: <b>Laravel | TypeScript | Full-Stack Development</b>  
+📫 Reach me at: <a href="mailto:youremail@example.com">youremail@example.com</a>  
+🌐 Portfolio: <a href="https://yourwebsite.com" target="_blank">yourwebsite.com</a>  
+🧠 Currently learning: <b>Advanced Laravel & RESTful APIs</b>  
+🤝 Open to: <b>Remote Work | Freelance | Collaboration</b>
+</p>
 
 ---
 
-### 🛒 [Enjoy Market](https://github.com/your-username/enjoy-market)
-> Full eCommerce site built with Laravel.  
-> **Stack:** Laravel, MySQL, JS, Tailwind  
-> **Features:** Product management, cart system, user authentication, and admin panel.
+<h2 align="center">🧰 Tech Stack</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,tailwind,php,laravel,mysql,git,github,vscode,postman,figma" />
+</p>
 
 ---
 
-## 🧭 Workflow
+<h2 align="center">🏗️ Featured Projects</h2>
 
-1. 📋 Plan & wireframe  
-2. 🎨 Design UI with HTML/CSS/Tailwind  
-3. ⚙️ Build backend APIs with Laravel or PHP  
-4. 🔗 Connect frontend & backend  
-5. ✅ Test, debug, and optimize  
-6. 🚀 Deploy and monitor performance
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <h3>🏠 <a href="https://github.com/your-username/unihousing">Unihousing</a></h3>
+      <p>
+        A web platform connecting students with apartment owners.<br>
+        <b>Stack:</b> Laravel, MySQL, PHP, HTML, CSS, JS<br>
+        <b>Features:</b> Authentication, Listings, Search, Booking System.
+      </p>
+    </td>
+    <td align="center" width="50%">
+      <h3>🌴 <a href="https://github.com/your-username/easytourbooking">EasyTourBooking</a></h3>
+      <p>
+        A PHP & MySQL app for managing travel bookings.<br>
+        <b>Stack:</b> PHP, MySQL, Bootstrap<br>
+        <b>Features:</b> CRUD operations, Dynamic Pages, Admin Dashboard.
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <h3>🛒 <a href="https://github.com/your-username/enjoy-market">Enjoy Market</a></h3>
+      <p>
+        A complete eCommerce platform built with Laravel.<br>
+        <b>Stack:</b> Laravel, MySQL, JS, Tailwind<br>
+        <b>Features:</b> Product Management, Cart System, User Auth, Admin Panel.
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🛠️ Quick Start for Laravel Project
+<h2 align="center">🧭 Workflow</h2>
+
+<p align="center">
+📋 Plan → 🎨 Design → ⚙️ Develop → 🔗 Connect → ✅ Test → 🚀 Deploy
+</p>
+
+---
+
+<h2 align="center">🛠️ Laravel Quick Start</h2>
 
 ```bash
 # Clone the repository
@@ -81,7 +86,8 @@ npm install && npm run build
 # Setup environment
 cp .env.example .env
 php artisan key:generate
-# Edit DB settings, then:
+
+# Edit your .env database configuration, then:
 php artisan migrate --seed
 
 # Run the development server
