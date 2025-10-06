@@ -1,5 +1,5 @@
 <!-- 💫 Professional GitHub Profile README -->
-<h1 align="center">👋 Hey there, I'm <span style="color:#007bff;">Your Name</span></h1>
+<h1 align="center">👋 Hey there, I'm <span style="color:#007bff;">Amin mohamed</span></h1>
 
 <p align="center">
   💻 <b>Full-Stack Web Developer</b> passionate about crafting fast, scalable, and user-friendly web applications.  
