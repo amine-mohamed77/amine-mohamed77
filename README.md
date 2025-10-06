@@ -11,10 +11,8 @@
 <h2 align="center">🚀 About Me</h2>
 
 <p align="center">
-🌍 Based in: <b>[Your Country]</b>  
+🌍 Based in: <b>[MOROOCO]</b>  
 💼 Current Focus: <b>Laravel | TypeScript | Full-Stack Development</b>  
-📫 Reach me at: <a href="mailto:youremail@example.com">youremail@example.com</a>  
-🌐 Portfolio: <a href="https://yourwebsite.com" target="_blank">yourwebsite.com</a>  
 🧠 Currently learning: <b>Advanced Laravel & RESTful APIs</b>  
 🤝 Open to: <b>Remote Work | Freelance | Collaboration</b>
 </p>
