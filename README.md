@@ -8,8 +8,7 @@ I love crafting clean code, optimizing performance, and creating practical digit
 ## 🚀 About Me
 
 - 🌍 Based in: **[Your Country]**  
-- 💼 Current Focus: **Laravel | TypeScript | Full-Stack Development**  
-- 📫 Reach me at: **youremail@example.com**  
+- 💼 Current Focus: **Laravel | TypeScript | Full-Stack Development**    
 - 🧠 Currently learning: **Advanced Laravel & RESTful APIs**  
 - 🤝 Open to: **Remote work | Freelance | Collaboration**
 
